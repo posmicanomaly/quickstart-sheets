@@ -1,0 +1,16 @@
+.classpath
+.project
+derby.log
+.gradle/4.4.1/fileChanges/last-build.bin
+.gradle/4.4.1/fileContent/annotation-processors.bin
+.gradle/4.4.1/fileContent/fileContent.lock
+.gradle/4.4.1/fileHashes/fileHashes.bin
+.gradle/4.4.1/fileHashes/fileHashes.lock
+.gradle/4.4.1/fileHashes/resourceHashesCache.bin
+.gradle/4.4.1/taskHistory/taskHistory.bin
+.gradle/4.4.1/taskHistory/taskHistory.lock
+.gradle/buildOutputCleanup/buildOutputCleanup.lock
+.gradle/buildOutputCleanup/cache.properties
+.gradle/buildOutputCleanup/outputFiles.bin
+gradlew
+gradlew.bat
